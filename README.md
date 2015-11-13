@@ -5,6 +5,9 @@ The ISE Reading Group provides an opportunity for ISE staff members to read and 
 Proposals for papers you'd like to be read and discussed can be submitted here.
 Please submit either a hyperlink to a pdf file, or directly upload the paper, but keep copyright regulations in mind.
 
+## Current Proposal (upcoming review date: 04.12.2015)
+In this section, we will display the current Proposal.
+
 ## History
 In this section, we record papers which have been read and discussed.
 

@@ -9,4 +9,4 @@ Please submit either a hyperlink to a pdf file, or directly upload the paper, bu
 In this section, we record papers which have been read and discussed.
 
 ## Contributions
-Before editing this file, read the [barkdown basics](https://help.github.com/articles/markdown-basics/)
+Before editing this file, read the [markdown basics](https://help.github.com/articles/markdown-basics/)

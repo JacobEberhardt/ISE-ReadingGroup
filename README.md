@@ -28,9 +28,10 @@ In this section, we record papers which have been read and discussed.
 
 ## Ressources
 [Papers We Love - Distributed Systems](https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems)
+
 [Scalingsystems.com Distributed Systems Reading List](http://scalingsystems.com/2011/09/07/reading-list-for-distributed-systems/)
+
 [Seminal papers in distributed computing](https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why)
-http://scalingsystems.com/2011/09/07/reading-list-for-distributed-systems/
 
 ## Contributions
 Before editing this file, read the [markdown basics](https://help.github.com/articles/markdown-basics/)

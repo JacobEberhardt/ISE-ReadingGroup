@@ -1,8 +1,13 @@
 # ISE-ReadingGroup
 The ISE Reading Group provides an opportunity for ISE staff members to read and discuss papers in the field of distributed computing in order to  discover, share and learn from interesting ademic research.
 
-## Current Paper (upcoming review date: 04.12.2015)
-In this section, we will display the current Paper which will be reviewed on the 4th of Dezember.
+## Current Paper 
+In this section, we will display the current general topic and paper for review.
+
+Current Topic: Consensus: Algorithms and Applications
+Current Paper: [Paxos made Simple - Leslie Lamport](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
+Supplementary Reading: [PaperTrail Blogpost on Paxos Algorithm](http://the-paper-trail.org/blog/consensus-protocols-paxos/)
+Review date: Friday, 04.12.2015
 
 ## Proposals/Suggestions
 Proposals for papers you'd like to be read and discussed can be submitted here.

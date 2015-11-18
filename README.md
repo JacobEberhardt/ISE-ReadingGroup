@@ -13,6 +13,7 @@ Please submit either a hyperlink to a pdf file, or directly upload the paper, bu
  - Consensus: Algorithms and Applications (Proposal by Jacob)
   1. [Paxos made Simple - Leslie Lamport](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
   2. [Mike Burrows - The Chubby lock service for loosely-coupled distributed systems](http://dl.acm.org/citation.cfm?id=1298487)
+  3. [PaperTrail Blogpost on Paxos Algorithm](http://the-paper-trail.org/blog/consensus-protocols-paxos/)
 
 #### Lecture Reading Assignments
 

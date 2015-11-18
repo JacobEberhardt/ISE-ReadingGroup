@@ -15,6 +15,13 @@ Please submit either a hyperlink to a pdf file, or directly upload the paper, bu
   2. [Mike Burrows - The Chubby lock service for loosely-coupled distributed systems](http://dl.acm.org/citation.cfm?id=1298487)
   3. [PaperTrail Blogpost on Paxos Algorithm](http://the-paper-trail.org/blog/consensus-protocols-paxos/)
  
+ - NoSQL Storage Systems
+  1. GFS
+  2. Bigtable
+  3. Dynamo
+  4. Cassandra
+  5. PNUTS
+ 
  - Others
   1. [Jeffrey Dean and Sanjay Ghemawat - MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/de//archive/mapreduce-osdi04.pdf)
   2. [Matt Welsh, David Culler, and Eric Brewer -SEDA: An Architecture for Well-Conditioned, Scalable Internet Services](http://www.eecs.harvard.edu/~mdw/papers/seda-sosp01.pdf)
@@ -42,5 +49,6 @@ In this section, we record papers which have been read and discussed.
 
 [Seminal papers in distributed computing](https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why)
 
+[A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 ## Contributions
 Before editing this file, read the [markdown basics](https://help.github.com/articles/markdown-basics/)

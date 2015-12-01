@@ -56,5 +56,10 @@ In this section, we record papers which have been read and discussed.
 [Seminal papers in distributed computing](https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why)
 
 [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
+
+[Distributed Systems Reading List](http://henryr.github.io/distributed-systems-readings/)
+
+[History of Consensus, Transactions and 2PC](http://betathoughts.blogspot.de/2007/06/brief-history-of-consensus-2pc-and.html)
+
 ## Contributions
 Before editing this file, read the [markdown basics](https://help.github.com/articles/markdown-basics/)

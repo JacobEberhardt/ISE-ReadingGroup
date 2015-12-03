@@ -7,7 +7,7 @@ In this section, we will display the current general topic and paper under revie
 Current Topic: **Consensus: Algorithms and Applications**  
 Current Paper: **[Paxos made Simple - Leslie Lamport](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)**  
 Supplementary Reading: [PaperTrail Blogpost on Paxos Algorithm](http://the-paper-trail.org/blog/consensus-protocols-paxos/)  
-Review date: **Friday, 04.12.2015**  
+Review date: **~~Friday, 04.12.2015~~** **Rescheduled to Friday, 11.12.2015** 
 
 ## Proposals/Suggestions
 Proposals for papers you'd like to be read and discussed can be submitted here.

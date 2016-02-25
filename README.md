@@ -4,10 +4,10 @@ The ISE Reading Group provides an opportunity for ISE staff members to read and 
 ## Current Paper 
 In this section, we will display the current general topic and paper under review.
 
-Current Topic: **Consensus: Algorithms and Applications**  
-Current Paper: **[Paxos made Simple - Leslie Lamport](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)**  
-Supplementary Reading: [PaperTrail Blogpost on Paxos Algorithm](http://the-paper-trail.org/blog/consensus-protocols-paxos/)  
-Review date: **~~Friday, 04.12.2015~~** **Rescheduled to Friday, 11.12.2015** 
+Current Topic: **Bitcoin and Blockchains**  
+Current Paper: **[Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)**  
+
+Review date: **Thursday, 03.03.2016** 
 
 ## Proposals/Suggestions
 Proposals for papers you'd like to be read and discussed can be submitted here.
@@ -47,6 +47,10 @@ Please submit either a hyperlink to a pdf file, or directly upload the paper, bu
 
 ## History
 In this section, we record papers which have been read and discussed.
+
+**[Paxos made Simple - Leslie Lamport](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)**  
+Supplementary Reading: [PaperTrail Blogpost on Paxos Algorithm](http://the-paper-trail.org/blog/consensus-protocols-paxos/)  
+Review date: **Thursday, 14.01.2016** 
 
 ## Ressources
 [Papers We Love - Distributed Systems](https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems)

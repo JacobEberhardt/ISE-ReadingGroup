@@ -6,8 +6,9 @@ In this section, we will display the current general topic and paper under revie
 
 Current Topic: **Bitcoin and Blockchains**  
 Current Paper: **[Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)**  
-Supplementary Reading: [An Analysis of Anonymity in the Bitcoin System](http://arxiv.org/pdf/1107.4524.pdf)
-[Anonymity of Bitcoin Transactions](http://www.cryptolibrary.org:8080/handle/21/430)
+Supplementary Reading:
+  -[An Analysis of Anonymity in the Bitcoin System](http://arxiv.org/pdf/1107.4524.pdf)
+  -[Anonymity of Bitcoin Transactions](http://www.cryptolibrary.org:8080/handle/21/430)
 
 Review date: **Thursday, 03.03.2016** 
 

@@ -10,7 +10,7 @@ Supplementary Reading:
   - [An Analysis of Anonymity in the Bitcoin System](http://arxiv.org/pdf/1107.4524.pdf)
   - [Anonymity of Bitcoin Transactions](http://www.cryptolibrary.org:8080/bitstream/handle/21/430/2013_Moser_Anonymity_of_Bitcoin_Transactions.pdf?sequence=1&isAllowed=y)
 
-Review date: **Thursday, 03.03.2016** 
+Review date: **Friday, 04.03.2016** 
 
 ## Proposals/Suggestions
 Proposals for papers you'd like to be read and discussed can be submitted here.

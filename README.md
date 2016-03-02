@@ -9,6 +9,7 @@ Current Paper: **[Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakam
 Supplementary Reading:
   - [An Analysis of Anonymity in the Bitcoin System](http://arxiv.org/pdf/1107.4524.pdf)
   - [Anonymity of Bitcoin Transactions](http://www.cryptolibrary.org:8080/bitstream/handle/21/430/2013_Moser_Anonymity_of_Bitcoin_Transactions.pdf?sequence=1&isAllowed=y)
+
 Additional Ressources:
   - [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
   - [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802)

@@ -5,17 +5,12 @@ The ISE Reading Group provides an opportunity for ISE staff members to read and 
 In this section, we will display the current general topic and paper under review.
 
 Current Topic: **Bitcoin and Blockchains**  
-Current Paper: **[Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)**  
+Current Paper: **[BigchainDB Whitepaper](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf)**  
+
 Supplementary Reading:
-  - [An Analysis of Anonymity in the Bitcoin System](http://arxiv.org/pdf/1107.4524.pdf)
-  - [Anonymity of Bitcoin Transactions](http://www.cryptolibrary.org:8080/bitstream/handle/21/430/2013_Moser_Anonymity_of_Bitcoin_Transactions.pdf?sequence=1&isAllowed=y)
+  - [RethinkDB Whitepaper](http://www.cs.toronto.edu/~ryanjohn/teaching/csc2531-f12/rethinkdb-whitepaper.pdf)
 
-Additional Ressources:
-  - [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
-  - [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802)
-  - [Geld stinkt, Bitcoin auch – Eine Ökobilanz der Bitcoin Block Chain](http://cs.emis.de/LNI/Proceedings/Proceedings208/39.pdf)
-
-Review date: **Friday, 04.03.2016** 
+Review date: **Thursday, 17.03.2016** 
 
 ## Proposals/Suggestions
 Proposals for papers you'd like to be read and discussed can be submitted here.
@@ -59,6 +54,16 @@ In this section, we record papers which have been read and discussed.
 **[Paxos made Simple - Leslie Lamport](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)**  
 Supplementary Reading: [PaperTrail Blogpost on Paxos Algorithm](http://the-paper-trail.org/blog/consensus-protocols-paxos/)  
 Review date: **Thursday, 14.01.2016** 
+
+**[Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)**  
+Supplementary Reading:
+  - [An Analysis of Anonymity in the Bitcoin System](http://arxiv.org/pdf/1107.4524.pdf)
+  - [Anonymity of Bitcoin Transactions](http://www.cryptolibrary.org:8080/bitstream/handle/21/430/2013_Moser_Anonymity_of_Bitcoin_Transactions.pdf?sequence=1&isAllowed=y)
+Additional Ressources:
+  - [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
+  - [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802)
+  - [Geld stinkt, Bitcoin auch – Eine Ökobilanz der Bitcoin Block Chain](http://cs.emis.de/LNI/Proceedings/Proceedings208/39.pdf)
+Review date: **Friday, 04.03.2016** 
 
 ## Ressources
 [Papers We Love - Distributed Systems](https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems)

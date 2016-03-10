@@ -8,7 +8,8 @@ Current Topic: **Bitcoin and Blockchains**
 Current Paper: **[BigchainDB Whitepaper](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf)**  
 
 Supplementary Reading:
-[RethinkDB Whitepaper](http://www.cs.toronto.edu/~ryanjohn/teaching/csc2531-f12/rethinkdb-whitepaper.pdf)
+- [RethinkDB Whitepaper](http://www.cs.toronto.edu/~ryanjohn/teaching/csc2531-f12/rethinkdb-whitepaper.pdf)
+-  [Juan Benet - InterPlanetary File System (IPFS)](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
 
 Review date: **Thursday, 17.03.2016** 
 
@@ -64,6 +65,7 @@ Additional Ressources:
   - [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
   - [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802)
   - [Geld stinkt, Bitcoin auch – Eine Ökobilanz der Bitcoin Block Chain](http://cs.emis.de/LNI/Proceedings/Proceedings208/39.pdf)
+
 Review date: **Friday, 04.03.2016** 
 
 ## Ressources
